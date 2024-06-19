@@ -1,4 +1,6 @@
-## Hi there 👋
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://stand-with-ukraine.pp.ua)
+
+## Hi, my name is Vadym. 👋
 
 <!--
 **xvadim/xvadim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a cross-platform mobile developer and teacher from Ukraine 🇺🇦
+
+A few facts about me:
+- 📱 I started developing mobile apps in the previous millennium (in 1989) on a soviet calculator MK-61. You can read an [article about my experience](https://dev.ua/blogs/posts/khokhlov-1695328040) (on Ukraine) or try [the MK-61 simulator](https://play.google.com/store/apps/details?id=com.cax.pmk.ext) on your Android-device
+- 🐈 Here is a list of some my pet-projects: [XbaSoft](https://xvadim.github.io/xbasoft/)
+- 🎲 I like to play verious intellectual games (Jeopardy, What?When?Where?) as well as unusual board games (Mancala, Seega, Ur)
+
